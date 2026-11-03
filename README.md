@@ -1,9 +1,12 @@
 # Layercraft Privacy Policy
 
-Public privacy policy for the Layercraft Figma plugin.
+The public privacy policy for the **Layercraft — Layered TIFF & PSD** Figma plugin is available here:
 
-Website: https://funji.github.io/layercraft-privacy/
+**[Read the Layercraft Privacy Policy](./PRIVACY_POLICY.md)**
 
-Contact: layercraft.figma@gmail.com
+Layercraft processes design content locally and does not send it to a developer-operated server. The policy explains what the plugin reads and stores and how to contact support.
 
-This repository contains only privacy-policy content and no proprietary Layercraft source code or user designs.
+**Developer:** Paweł Sławski  
+**Contact:** layercraft.figma@gmail.com
+
+This public repository contains only privacy-policy materials. Layercraft's proprietary plugin source code and user designs are not included.
